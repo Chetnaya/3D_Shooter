@@ -1,2 +1,2 @@
-# 3D_Shooter
+# 3D Shooter
 A First person based shooting game
